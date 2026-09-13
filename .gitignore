@@ -1,0 +1,11 @@
+# Nunca subir la API key
+.env
+
+# Archivos de Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Sistema
+.DS_Store
