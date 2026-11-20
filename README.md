@@ -4,6 +4,8 @@ Un asistente conversacional que responde preguntas sobre un restaurante (menú, 
 
 A diferencia de un chatbot común, este asistente **no inventa respuestas**: busca la información en documentos reales del restaurante y responde basándose únicamente en ellos. Esto evita las alucinaciones y permite que el negocio actualice su información editando un archivo de texto, sin tocar el código.
 
+> 📝 **Nota:** el restaurante de la carpeta `data/` ("La Parrilla") es **ficticio**. La dirección, los teléfonos, los horarios y el menú se inventaron solo para esta demo.
+
 ## 🧠 ¿Cómo funciona?
 
 El sistema implementa el flujo RAG completo:
