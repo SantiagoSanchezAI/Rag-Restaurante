@@ -1,4 +1,4 @@
-INFORMACIÓN GENERAL - RESTAURANTE LA PARRILLA
+INFORMACIÓN GENERAL - RESTAURANTE LA PARRILLA (restaurante ficticio, datos de ejemplo)
 
 HORARIOS
 - Lunes a jueves: 12:00 a 15:00 y 20:00 a 00:00.
@@ -6,8 +6,8 @@ HORARIOS
 - Domingos: 12:00 a 16:00. Por la noche cerrado.
 
 UBICACIÓN Y CONTACTO
-- Dirección: Av. Libertador 2450, San Isidro, Buenos Aires.
-- Teléfono: (011) 4747-8900.
+- Dirección: Av. Siempre Viva 123, Buenos Aires (dirección ficticia).
+- Teléfono: (011) 0000-0000.
 - WhatsApp: +54 9 11 5555-1234.
 
 RESERVAS
